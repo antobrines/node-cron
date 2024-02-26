@@ -1,4 +1,4 @@
-# Project Title
+# Cron for powershell
 
 This is a Node.js project that uses the `node-cron` package to schedule tasks. The main script is located in [index.js](index.js).
 
